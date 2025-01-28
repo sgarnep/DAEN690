@@ -1,4 +1,4 @@
-# DAEN690
+# DAEN690 - Team A
 DAEN 690 Repository for Spring 2025 - GMU
 PROBLEM DESCRIPTION
 
